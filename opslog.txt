@@ -1,0 +1,60 @@
+20211115_1512 [*] No browsers available. Launching...
+20211115_1512 [*] Creating browser object with User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+20211115_1512 [*] Creating browser object with User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2919.83 Safari/537.36
+20211115_1512 [*] Creating browser object with User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2866.71 Safari/537.36
+20211115_1512 [*] Creating browser object with User Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2820.59 Safari/537.36
+20211115_1512 [*] Creating browser object with User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2762.73 Safari/537.36
+20211115_1512 [*] Creating browser object with User Agent: Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
+20211115_1512 [*] Creating browser object with User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/75.0
+20211115_1512 [*] Creating browser object with User Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.10; rv:75.0) Gecko/20100101 Firefox/75.0
+20211115_1513 [*] Testing Account tone.loc@adp.com
+20211115_1513 [+] Login error found.
+20211115_1513 [-] Account doesn't exist.
+20211115_1513 [*] Testing Account michelle.murphy@adp.com
+20211115_1513 [!] Failed enumeration for elementId i0118
+20211115_1513 [+] Successful enumeration for elementId loginDescription
+20211115_1513 [+] Account exists (Got multi-account login option).
+20211115_1513 [*] Testing Account matt.pichelmayer@adp.com
+20211115_1513 [+] Successful enumeration for elementId i0118
+20211115_1513 [+] Successful enumeration for elementId passwd
+20211115_1513 [+] Account exists.
+'YYYY-MM-DDTHH:mm:ss [*] No browsers available. Launching...
+'YYYY-MM-DDTHH:mm:ss [*] Creating browser object with User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+'YYYY-MM-DDTHH:mm:ss [*] Creating browser object with User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2919.83 Safari/537.36
+'YYYY-MM-DDTHH:mm:ss [*] Creating browser object with User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2866.71 Safari/537.36
+'YYYY-MM-DDTHH:mm:ss [*] Creating browser object with User Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2820.59 Safari/537.36
+'YYYY-MM-DDTHH:mm:ss [*] Creating browser object with User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2762.73 Safari/537.36
+'YYYY-MM-DDTHH:mm:ss [*] Creating browser object with User Agent: Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
+'YYYY-MM-DDTHH:mm:ss [*] Creating browser object with User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/75.0
+'YYYY-MM-DDTHH:mm:ss [*] Creating browser object with User Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.10; rv:75.0) Gecko/20100101 Firefox/75.0
+'YYYY-MM-DDTHH:mm:ss [*] Testing Account tone.loc@adp.com
+'YYYY-MM-DDTHH:mm:ss [+] Login error found.
+'YYYY-MM-DDTHH:mm:ss [-] Account doesn't exist.
+'YYYY-MM-DDTHH:mm:ss [*] Testing Account michelle.murphy@adp.com
+'YYYY-MM-DDTHH:mm:ss [!] Failed enumeration for elementId i0118
+'YYYY-MM-DDTHH:mm:ss [+] Successful enumeration for elementId loginDescription
+'YYYY-MM-DDTHH:mm:ss [+] Account exists (Got multi-account login option).
+'YYYY-MM-DDTHH:mm:ss [*] Testing Account matt.pichelmayer@adp.com
+'YYYY-MM-DDTHH:mm:ss [+] Successful enumeration for elementId i0118
+'YYYY-MM-DDTHH:mm:ss [+] Successful enumeration for elementId passwd
+'YYYY-MM-DDTHH:mm:ss [+] Account exists.
+2021-11-15 15:44:12 [*] No browsers available. Launching...
+2021-11-15 15:44:12 [*] Creating browser object with User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2021-11-15 15:44:16 [*] Creating browser object with User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2919.83 Safari/537.36
+2021-11-15 15:44:22 [*] Creating browser object with User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2866.71 Safari/537.36
+2021-11-15 15:44:27 [*] Creating browser object with User Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2820.59 Safari/537.36
+2021-11-15 15:44:32 [*] Creating browser object with User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2762.73 Safari/537.36
+2021-11-15 15:44:37 [*] Creating browser object with User Agent: Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
+2021-11-15 15:44:42 [*] Creating browser object with User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/75.0
+2021-11-15 15:44:47 [*] Creating browser object with User Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.10; rv:75.0) Gecko/20100101 Firefox/75.0
+2021-11-15 15:44:56 [*] Testing Account tone.loc@adp.com
+2021-11-15 15:44:56 [+] Login error found.
+2021-11-15 15:44:56 [-] Account doesn't exist.
+2021-11-15 15:45:03 [*] Testing Account michelle.murphy@adp.com
+2021-11-15 15:45:03 [!] Failed enumeration for elementId i0118
+2021-11-15 15:45:03 [+] Successful enumeration for elementId loginDescription
+2021-11-15 15:45:03 [+] Account exists (Got multi-account login option).
+2021-11-15 15:45:09 [*] Testing Account matt.pichelmayer@adp.com
+2021-11-15 15:45:09 [+] Successful enumeration for elementId i0118
+2021-11-15 15:45:09 [+] Successful enumeration for elementId passwd
+2021-11-15 15:45:09 [+] Account exists.
